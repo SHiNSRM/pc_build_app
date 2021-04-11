@@ -1,37 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../parts/case_fan_parts.dart';
-import '../parts/case_parts.dart';
-import '../parts/cpu_cooler_parts.dart';
-import '../parts/cpu_parts.dart';
-import '../parts/gpu_parts.dart';
-import '../parts/memory_parts.dart';
-import '../parts/motherboard_parts.dart';
-import '../parts/power_supply_parts.dart';
-import '../parts/storage_parts.dart';
-
-const partsName = [
-  'CPU',
-  'CPUクーラー',
-  'マザーボード',
-  'メモリ',
-  'ストレージ',
-  'GPU',
-  'ケース',
-  'ケースファン',
-  '電源ユニット'
-];
-final partsRoutes = [
-  PartsCPU(),
-  PartsCPUCooler(),
-  PartsMotherboard(),
-  PartsMemory(),
-  PartsStorage(),
-  PartsGPU(),
-  PartsCase(),
-  PartsCaseFan(),
-  PartsPowerSupply()
-];
+import '../parts/parts_list.dart';
 
 class Parts extends StatefulWidget {
   @override
@@ -39,7 +8,19 @@ class Parts extends StatefulWidget {
 }
 
 class _PartsCardState extends State<Parts> {
-  List cards = List.generate(partsName.length, (i) => CustomCard(index: i)).toList();
+  static const _partsName = [
+    'CPU',
+    'CPUクーラー',
+    'マザーボード',
+    'メモリ',
+    'ストレージ',
+    'GPU',
+    'ケース',
+    'ケースファン',
+    '電源ユニット'
+  ];
+  List cards = List.generate(
+      _partsName.length, (i) => CustomCard(partsName: _partsName[i])).toList();
 
   @override
   Widget build(BuildContext context) {
@@ -84,8 +65,8 @@ class _PartsCardState extends State<Parts> {
 }
 
 class CustomCard extends StatelessWidget {
-  final int index;
-  CustomCard({this.index});
+  final String partsName;
+  CustomCard({this.partsName});
 
   @override
   Widget build(BuildContext context) {
@@ -95,7 +76,7 @@ class CustomCard extends StatelessWidget {
           MaterialPageRoute<void>(
             builder: (BuildContext context) {
               return Scaffold(
-                body: partsRoutes[index],
+                body: PartsList(name: partsName),
               );
             },
           ),
@@ -113,7 +94,7 @@ class CustomCard extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                partsName[index],
+                partsName,
                 style: const TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
