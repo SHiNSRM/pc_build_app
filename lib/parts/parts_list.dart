@@ -6,14 +6,14 @@ import 'package:flutter/services.dart' show rootBundle;
 import '../parts/parts_detail.dart';
 
 class PartsList extends StatelessWidget {
-  final String name;
-  PartsList({this.name});
+  final Map<String, String> parts;
+  PartsList({this.parts});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(name),
+        title: Text(parts['name']),
       ),
       body: Container(
         height: double.infinity,
@@ -32,13 +32,16 @@ class PartsList extends StatelessWidget {
             ],
           ),
         ),
-        child: JsonPartsDate(),
+        child: JsonPartsDate(type: parts['type']),
       ),
     );
   }
 }
 
 class JsonPartsDate extends StatefulWidget {
+  final String type;
+  JsonPartsDate({this.type});
+
   @override
   _JsonPartsDateState createState() => _JsonPartsDateState();
 }
@@ -61,8 +64,8 @@ class _JsonPartsDateState extends State<JsonPartsDate> {
     jsonString = await _loadAVaultAsset();
     setState(() {
       final jsonResponse = json.decode(jsonString);
-      print('gotcha!');
-      _data = jsonResponse['cpu'];
+      print('gotcha:${widget.type}');
+      _data = jsonResponse[widget.type];
     });
   }
 

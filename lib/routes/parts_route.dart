@@ -8,19 +8,42 @@ class Parts extends StatefulWidget {
 }
 
 class _PartsCardState extends State<Parts> {
-  static const _partsName = [
-    'CPU',
-    'CPUクーラー',
-    'マザーボード',
-    'メモリ',
-    'ストレージ',
-    'GPU',
-    'ケース',
-    'ケースファン',
-    '電源ユニット'
+  static const _parts = [
+    {
+      'type': 'cpu',
+      'name': 'CPU'
+    },
+    {
+      'type': 'cpu-cooler',
+      'name': 'CPUクーラー'
+    },
+    {
+      'type': 'motherboard',
+      'name': 'マザーボード'
+    },
+    {
+      'type': 'memory',
+      'name': 'メモリ'
+    },
+    {
+      'type': 'internal-hard-drive',
+      'name': 'ストレージ'
+    },
+    {
+      'type': 'video-card',
+      'name': 'GPU'
+    },
+    {
+      'type': 'case',
+      'name': 'ケース'
+    },
+    {
+      'type': 'power-supply',
+      'name': '電源ユニット'
+    }
   ];
   List cards = List.generate(
-      _partsName.length, (i) => CustomCard(partsName: _partsName[i])).toList();
+      _parts.length, (i) => CustomCard(parts: _parts[i])).toList();
 
   @override
   Widget build(BuildContext context) {
@@ -65,8 +88,8 @@ class _PartsCardState extends State<Parts> {
 }
 
 class CustomCard extends StatelessWidget {
-  final String partsName;
-  CustomCard({this.partsName});
+  final Map<String, String> parts;
+  CustomCard({this.parts});
 
   @override
   Widget build(BuildContext context) {
@@ -76,7 +99,7 @@ class CustomCard extends StatelessWidget {
           MaterialPageRoute<void>(
             builder: (BuildContext context) {
               return Scaffold(
-                body: PartsList(name: partsName),
+                body: PartsList(parts: parts),
               );
             },
           ),
@@ -94,7 +117,7 @@ class CustomCard extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                partsName,
+                parts['name'],
                 style: const TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
