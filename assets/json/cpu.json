@@ -1,0 +1,5762 @@
+[
+  {
+    "id": "7897d79791e95814ea865f8301ed1f30",
+    "name": "Ryzen 5 5600X",
+    "type": "cpu",
+    "price": "38980",
+    "desc": {
+      "releace_date": "2020/11/ 6",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第4世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "54ab68b7b3d438fc980287cc7e41013d",
+    "name": "Ryzen 7 5800X",
+    "type": "cpu",
+    "price": "56980",
+    "desc": {
+      "releace_date": "2020/11/ 6",
+      "socket": "Socket AM4",
+      "core": "8コア",
+      "clock": "3.8GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第4世代",
+      "tdp": "105W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "8ed5afffbec45c7b57ab417ba5e174ba",
+    "name": "Core i5 10400F(Comet Lake)",
+    "type": "cpu",
+    "price": "15980",
+    "desc": {
+      "releace_date": "2020/6/19",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "2.9GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0b4338ec8abcd08f2d9f429acbfffefa",
+    "name": "Core i5 10400(Comet Lake)",
+    "type": "cpu",
+    "price": "18980",
+    "desc": {
+      "releace_date": "2020/5/20",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "2.9GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d7bd4a79dd601e579d9e90d45bfbaff0",
+    "name": "Ryzen 9 5900X",
+    "type": "cpu",
+    "price": "89800",
+    "desc": {
+      "releace_date": "2020/11/ 6",
+      "socket": "Socket AM4",
+      "core": "12コア",
+      "clock": "3.7GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "第4世代",
+      "tdp": "105W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "8f30b8ed098304bcf5b9ed7d3a4c528d",
+    "name": "Core i7 10700K(Comet Lake)",
+    "type": "cpu",
+    "price": "37799",
+    "desc": {
+      "releace_date": "2020/5/20",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.8GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "5.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "eb9adda886752f33bcce6908466f6c9c",
+    "name": "Ryzen 9 5950X",
+    "type": "cpu",
+    "price": "125980",
+    "desc": {
+      "releace_date": "2020/11/ 6",
+      "socket": "Socket AM4",
+      "core": "16コア",
+      "clock": "3.4GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "第4世代",
+      "tdp": "105W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "8MB"
+    }
+  },
+  {
+    "id": "956cff308a64e27d80de9c366e36d963",
+    "name": "Ryzen 5 3600",
+    "type": "cpu",
+    "price": "23780",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.6GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "65W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "5653dc8d3ad58b9f97e437bcee2a670c",
+    "name": "Core i3 10100(Comet Lake)",
+    "type": "cpu",
+    "price": "12958",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "618326cdb7f68c56dec52c1942456378",
+    "name": "Ryzen 9 3900",
+    "type": "cpu",
+    "price": "45800",
+    "desc": {
+      "releace_date": "2020/10/上旬",
+      "socket": "Socket AM4",
+      "core": "12コア",
+      "clock": "3.1GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "df5b02de4adafd4e1a2e2f75ded1eb3d",
+    "name": "Core i9 11900K(Rocket Lake)",
+    "type": "cpu",
+    "price": "77800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.5GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "5.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f698a13e4b9a9aba3b0800d9982febcb",
+    "name": "Ryzen 9 3950X",
+    "type": "cpu",
+    "price": "65890",
+    "desc": {
+      "releace_date": "2019/11/30",
+      "socket": "Socket AM4",
+      "core": "16コア",
+      "clock": "3.5GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "105W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "8MB"
+    }
+  },
+  {
+    "id": "c9599798776deb027dbd2b5e67cc736a",
+    "name": "Core i5 11400(Rocket Lake)",
+    "type": "cpu",
+    "price": "25790",
+    "desc": {
+      "releace_date": "2021/3/30",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "2.6GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 730",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "01bf17070757ab99525551c8c25fc10e",
+    "name": "Ryzen 5 3400G",
+    "type": "cpu",
+    "price": "21280",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "8",
+      "graphic": "Radeon RX Vega 11 Graphics",
+      "gen": "第2世代",
+      "tdp": "65W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": "2MB"
+    }
+  },
+  {
+    "id": "29b9687af163d3870179cbbbd45770d7",
+    "name": "Ryzen 3 3100",
+    "type": "cpu",
+    "price": "13979",
+    "desc": {
+      "releace_date": "2020/5/23",
+      "socket": "Socket AM4",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "65W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": "2MB"
+    }
+  },
+  {
+    "id": "aa2da7043e81fc8d2908b9885d5bada5",
+    "name": "Core i7 10700(Comet Lake)",
+    "type": "cpu",
+    "price": "33979",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.9GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8853c23c61eb92fb574aa4f7c56fe503",
+    "name": "Core i9 10900K(Comet Lake)",
+    "type": "cpu",
+    "price": "53878",
+    "desc": {
+      "releace_date": "2020/5/20",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "3.7GHz",
+      "thread": "20",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "5.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "35a9e0ae3e77afeb74561640074b9f82",
+    "name": "Core i3 10100F(Comet Lake)",
+    "type": "cpu",
+    "price": "9979",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "54a902c420193f1f3f929114be06c814",
+    "name": "Ryzen 5 3500",
+    "type": "cpu",
+    "price": "16990",
+    "desc": {
+      "releace_date": "2020/2/22",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.6GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "65W",
+      "clock_max": "4.1GHz",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "bc065c6bf7f5ae2265886985ada21a45",
+    "name": "Athlon 3000G",
+    "type": "cpu",
+    "price": "7238",
+    "desc": {
+      "releace_date": "2019/11/23",
+      "socket": "Socket AM4",
+      "core": "2コア",
+      "clock": "3.5GHz",
+      "thread": "4",
+      "graphic": "Radeon Vega 3 Graphics",
+      "gen": "",
+      "tdp": "35W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": "1MB"
+    }
+  },
+  {
+    "id": "fc782c9f296bee8aab596bf693c16e6c",
+    "name": "Ryzen 7 3700X",
+    "type": "cpu",
+    "price": "38980",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "09570bbe864da778d5f5c2fba068c359",
+    "name": "Core i5 11500(Rocket Lake)",
+    "type": "cpu",
+    "price": "28790",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "2.7GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "30416c989a7b0e0a75ecc147d316b157",
+    "name": "Core i5 11400F(Rocket Lake)",
+    "type": "cpu",
+    "price": "22790",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "2.6GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3db049c5211163bbb94a2e47c1985cbb",
+    "name": "Core i7 11700K(Rocket Lake)",
+    "type": "cpu",
+    "price": "57532",
+    "desc": {
+      "releace_date": "2021/3/30",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1ff0f367844d6aebbec085b3702b51f0",
+    "name": "Pentium Gold G6400(Comet Lake)",
+    "type": "cpu",
+    "price": "6790",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "4GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4c481cbf45ffb53d49dd76259b02da7b",
+    "name": "Core i5 9600K(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "18800",
+    "desc": {
+      "releace_date": "2018/10/20",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "87a5bbdf44e306f22f3c27135e742021",
+    "name": "Ryzen 9 3900X",
+    "type": "cpu",
+    "price": "54980",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "12コア",
+      "clock": "3.8GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "105W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "8a89048e57ad30dbe9b11983fefc6621",
+    "name": "Core i3 9100(Coffee Lake)",
+    "type": "cpu",
+    "price": "11000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "399c1ee2207a7e61793e4ce009cfe178",
+    "name": "Core i7 11700(Rocket Lake)",
+    "type": "cpu",
+    "price": "47770",
+    "desc": {
+      "releace_date": "2021/3/30",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.5GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b5fe6119bad5af2269678b8a182b9c27",
+    "name": "Core i9 10850K(Comet Lake)",
+    "type": "cpu",
+    "price": "46879",
+    "desc": {
+      "releace_date": "2020/8/21",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "3.6GHz",
+      "thread": "20",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ae6560d64abd78a8ce2f15532eb3d439",
+    "name": "Celeron G5900(Comet Lake)",
+    "type": "cpu",
+    "price": "4785",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "3.4GHz",
+      "thread": "2",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "2MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "58d8201449bb9f1924104a94d858e1c8",
+    "name": "Core i7 10700F(Comet Lake)",
+    "type": "cpu",
+    "price": "32570",
+    "desc": {
+      "releace_date": "2020/5/28",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.9GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "03b0c674e9c13756e8b8d72e8c1aaf18",
+    "name": "Core i3 9100F(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "9350",
+    "desc": {
+      "releace_date": "2019/5/16",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "55fc780db0bb3ef9848e45d34f73fe53",
+    "name": "Celeron G4950(Coffee Lake)",
+    "type": "cpu",
+    "price": "7095",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "2コア",
+      "clock": "3.3GHz",
+      "thread": "2",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第9世代",
+      "tdp": "54W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "2MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f940b556a9fb2ce9d15cb31b62c40ebd",
+    "name": "Ryzen 3 3200G",
+    "type": "cpu",
+    "price": "16980",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "4",
+      "graphic": "Radeon Vega 8 Graphics",
+      "gen": "第2世代",
+      "tdp": "65W",
+      "clock_max": "4GHz",
+      "multi_thread": "",
+      "cache_3rd": "4MB",
+      "cache_2nd": "2MB"
+    }
+  },
+  {
+    "id": "1bcbfc6ffebbc846ec68d8e45eedb8d5",
+    "name": "Core i9 10900(Comet Lake)",
+    "type": "cpu",
+    "price": "45579",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "2.8GHz",
+      "thread": "20",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4d38bc1f2e748cdff017ad368d56fda3",
+    "name": "Core i9 9900K(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "46980",
+    "desc": {
+      "releace_date": "2018/10/20",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2094d569251026e0641635370e3e648d",
+    "name": "Core i5 10600K(Comet Lake)",
+    "type": "cpu",
+    "price": "26800",
+    "desc": {
+      "releace_date": "2020/5/21",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "4.1GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "88cf1127be18f8925da33e074cfb3fe6",
+    "name": "Core i3 10105F(Comet Lake)",
+    "type": "cpu",
+    "price": "11999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "914f1b3ffad23d76e11c33a6bf65d6ba",
+    "name": "Ryzen 7 3800XT",
+    "type": "cpu",
+    "price": "41980",
+    "desc": {
+      "releace_date": "2020/7/18",
+      "socket": "Socket AM4",
+      "core": "8コア",
+      "clock": "3.9GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "105W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "c22a60e244becce950690fa99d2164b8",
+    "name": "Core i9 11900(Rocket Lake)",
+    "type": "cpu",
+    "price": "63770",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.5GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2f4e54d4f9731a5e1df62625dd8dc320",
+    "name": "Celeron G5905(Comet Lake)",
+    "type": "cpu",
+    "price": "4785",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "3.5GHz",
+      "thread": "2",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b390f53ae8bedca80998ffceac264568",
+    "name": "Core i7 11700F(Rocket Lake)",
+    "type": "cpu",
+    "price": "43790",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.5GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a7952bfcc12ff7e0e6e38481a9e92dc0",
+    "name": "Core i5 11600K(Rocket Lake)",
+    "type": "cpu",
+    "price": "37770",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "3.9GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 750",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8e6237dabd4aa9db14be6279dacc2b31",
+    "name": "Core i7 10700KF(Comet Lake)",
+    "type": "cpu",
+    "price": "36980",
+    "desc": {
+      "releace_date": "2020/6/19",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.8GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "5.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "679232c9b22454b03af0f7ca793eb321",
+    "name": "Pentium Gold G5420(Coffee Lake)",
+    "type": "cpu",
+    "price": "7260",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "2コア",
+      "clock": "3.8GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第9世代",
+      "tdp": "54W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "57bb8a2eb2eb57faa53dd0a1527eae1e",
+    "name": "Core i5 9400F(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "17280",
+    "desc": {
+      "releace_date": "2019/2/ 1",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "2.9GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.1GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4da2dbcbb21babb2556847ac58ed7b1d",
+    "name": "Core i7 9700K(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "35980",
+    "desc": {
+      "releace_date": "2018/10/20",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8d864141e61e27c6bc28296bb88015dc",
+    "name": "Core i7 9700(Coffee Lake)",
+    "type": "cpu",
+    "price": "33800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f01cb5fa7c4996781145f39091d3fcb4",
+    "name": "Ryzen 7 3800X",
+    "type": "cpu",
+    "price": "41980",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "8コア",
+      "clock": "3.9GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "105W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "067aa7483886387be9ada9da98675edd",
+    "name": "Ryzen Threadripper 3990X",
+    "type": "cpu",
+    "price": "510600",
+    "desc": {
+      "releace_date": "2020/2/ 8",
+      "socket": "Socket sTRX4",
+      "core": "64コア",
+      "clock": "2.9GHz",
+      "thread": "128",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "256MB",
+      "cache_2nd": "32MB"
+    }
+  },
+  {
+    "id": "2b26b55dbd9e1a41bfb4751316970b0d",
+    "name": "Athlon 200GE",
+    "type": "cpu",
+    "price": "7980",
+    "desc": {
+      "releace_date": "2018/9/28",
+      "socket": "Socket AM4",
+      "core": "2コア",
+      "clock": "3.2GHz",
+      "thread": "4",
+      "graphic": "Radeon Vega 3 Graphics",
+      "gen": "第1世代",
+      "tdp": "35W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": "1024KB"
+    }
+  },
+  {
+    "id": "b250e5f93b3b7cb95b0871bf02ac5ef4",
+    "name": "Core i9 9900(Coffee Lake)",
+    "type": "cpu",
+    "price": "45980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3.1GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6cfe2ba220c75942ade1bc23f9c46289",
+    "name": "Core i9 10980XE(Cascade Lake)",
+    "type": "cpu",
+    "price": "114800",
+    "desc": {
+      "releace_date": "2019/11/29",
+      "socket": "LGA2066",
+      "core": "18コア",
+      "clock": "3GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "165W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "431d2af04c9c802453deb0afc3371d86",
+    "name": "Core i7 9700F(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "30980",
+    "desc": {
+      "releace_date": "2019/6/ 7",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "cc40a84cd5ae03eb3e906f5edb85f115",
+    "name": "Core i9 11900KF(Rocket Lake)",
+    "type": "cpu",
+    "price": "74800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.5GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "5.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "02cc5e866d314e7614f118a645a7228f",
+    "name": "Core i5 10500(Comet Lake)",
+    "type": "cpu",
+    "price": "23000",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "3.1GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "30125ce1bef0d8761852ac6b61ebd1f3",
+    "name": "Core i5 10600(Comet Lake)",
+    "type": "cpu",
+    "price": "26480",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "3.3GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4848e739514a04b51c43afc90ecd274a",
+    "name": "Ryzen 5 3600XT",
+    "type": "cpu",
+    "price": "29678",
+    "desc": {
+      "releace_date": "2020/7/18",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.8GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "95W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "3e8fabd5623394df81c0900337123a13",
+    "name": "Core i9 10900F(Comet Lake)",
+    "type": "cpu",
+    "price": "43870",
+    "desc": {
+      "releace_date": "2020/6/19",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "2.8GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "c1574170305e7bea9ddc8b8cc75e2c9d",
+    "name": "Ryzen Threadripper 3970X",
+    "type": "cpu",
+    "price": "244980",
+    "desc": {
+      "releace_date": "2019/11/30",
+      "socket": "Socket sTRX4",
+      "core": "32コア",
+      "clock": "3.7GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "128MB",
+      "cache_2nd": "16MB"
+    }
+  },
+  {
+    "id": "fbce769b90a4f56a8f3db294635a1c60",
+    "name": "Ryzen 9 3900XT",
+    "type": "cpu",
+    "price": "61680",
+    "desc": {
+      "releace_date": "2020/7/18",
+      "socket": "Socket AM4",
+      "core": "12コア",
+      "clock": "3.8GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "105W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "36a1212274379979b2b6b82440ff7fd0",
+    "name": "Core i5 9400(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "20200",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "2.9GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.1GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "c2fa9b945fb3b6da6888f2efa5abf215",
+    "name": "Core i5 10600KF(Comet Lake)",
+    "type": "cpu",
+    "price": "25277",
+    "desc": {
+      "releace_date": "2020/5/21",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "4.1GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2a759c79e41f2c8338171fcbaf3946b2",
+    "name": "Core i9 10900KF(Comet Lake)",
+    "type": "cpu",
+    "price": "50980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "3.7GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "125W",
+      "clock_max": "5.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9344add7d4eb165dab165921c3ecb57b",
+    "name": "Core i9 11900F(Rocket Lake)",
+    "type": "cpu",
+    "price": "61950",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "2.5GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "65W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f9ac5402fe138e6d7f2cc46f9285bfce",
+    "name": "Celeron G5920(Comet Lake)",
+    "type": "cpu",
+    "price": "6450",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "3.5GHz",
+      "thread": "2",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "2MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ed8f01fe9e801a5f063f9ddd2764246d",
+    "name": "Core i3 10300(Comet Lake)",
+    "type": "cpu",
+    "price": "18800",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "399acb1b191a2ab9feb251f50a084333",
+    "name": "Ryzen Threadripper PRO 3995WX",
+    "type": "cpu",
+    "price": "712700",
+    "desc": {
+      "releace_date": "2021/3/26",
+      "socket": "Socket sWRX8",
+      "core": "64コア",
+      "clock": "2.7GHz",
+      "thread": "128",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "256MB",
+      "cache_2nd": "32MB"
+    }
+  },
+  {
+    "id": "8a695a36e473b0ce3ce2fe9663c1cf20",
+    "name": "Pentium Gold G6500(Comet Lake)",
+    "type": "cpu",
+    "price": "9960",
+    "desc": {
+      "releace_date": "2020/5/28",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "4.1GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "63d00c03079f2eb3b1f4ca7a7ddc458f",
+    "name": "Ryzen Threadripper 3960X",
+    "type": "cpu",
+    "price": "169980",
+    "desc": {
+      "releace_date": "2019/11/30",
+      "socket": "Socket sTRX4",
+      "core": "24コア",
+      "clock": "3.8GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "128MB",
+      "cache_2nd": "12MB"
+    }
+  },
+  {
+    "id": "27e21d089a347524f6d069f1a937e901",
+    "name": "Celeron G5925(Comet Lake)",
+    "type": "cpu",
+    "price": "6500",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "3.6GHz",
+      "thread": "2",
+      "graphic": "Intel UHD Graphics 610",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d13b5d1ce8ea615fde68072c9e28699f",
+    "name": "Core i5 11600KF(Rocket Lake)",
+    "type": "cpu",
+    "price": "34980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "3.9GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "723b73cea351675f283982d68aa24699",
+    "name": "Core i7 11700KF(Rocket Lake)",
+    "type": "cpu",
+    "price": "56970",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第11世代",
+      "tdp": "125W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "80d3c1f41e17bec969a76e71c29d5136",
+    "name": "Core i5 3570K(Ivy Bridge)",
+    "type": "cpu",
+    "price": "9686",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "77W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6143fc4bfe6b8a83777fb9ad77451347",
+    "name": "Pentium Gold G6600(Comet Lake)",
+    "type": "cpu",
+    "price": "10978",
+    "desc": {
+      "releace_date": "2020/5/28",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "4.2GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "58W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1bb5bf9b984ce5824ee0a33f7e7a6cd5",
+    "name": "Core 2 Duo E6750",
+    "type": "cpu",
+    "price": "3035",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "2.66GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "7709ef1b645319b9677ad55c1dde7dd5",
+    "name": "Core i3 7100(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "16680",
+    "desc": {
+      "releace_date": "2017/1/ 6",
+      "socket": "LGA1151",
+      "core": "2コア",
+      "clock": "3.9GHz",
+      "thread": "4",
+      "graphic": "Intel HD Graphics 630",
+      "gen": "第7世代",
+      "tdp": "51W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "653206a0a62389fe4c86e3d5b5ab8a08",
+    "name": "Ryzen 5 3600X",
+    "type": "cpu",
+    "price": "29049",
+    "desc": {
+      "releace_date": "2019/7/ 7",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.8GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "95W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "d932a92c828a195b74aa8d0575fd30ae",
+    "name": "Core i7 8700(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "41394",
+    "desc": {
+      "releace_date": "2017/11/ 2",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.2GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "982578f7921bba0862937b7f2a70b122",
+    "name": "Core i9 10900X(Cascade Lake)",
+    "type": "cpu",
+    "price": "67546",
+    "desc": {
+      "releace_date": "2019/11/29",
+      "socket": "LGA2066",
+      "core": "10コア",
+      "clock": "3.7GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "165W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e559df83f1a4d74a2984cf8e607cb9d0",
+    "name": "Ryzen Threadripper PRO 3955WX",
+    "type": "cpu",
+    "price": "149700",
+    "desc": {
+      "releace_date": "2021/3/26",
+      "socket": "Socket sWRX8",
+      "core": "16コア",
+      "clock": "3.9GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": "8MB"
+    }
+  },
+  {
+    "id": "0b7ab1e8d9dbe6463d6f2e6ba4f6f96e",
+    "name": "Celeron Dual-Core G1610(Ivy Bridge)",
+    "type": "cpu",
+    "price": "4980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "2.6GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics",
+      "gen": "",
+      "tdp": "55W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "2MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1074789384b0caa97c4dfe6c4ff19834",
+    "name": "Core i5 3470(Ivy Bridge)",
+    "type": "cpu",
+    "price": "12257",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "4コア",
+      "clock": "3.2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "77W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8afccf229b125a60ff498413cfd53a14",
+    "name": "Core i3 9300(Coffee Lake Refresh)",
+    "type": "cpu",
+    "price": "19800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "62W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3b7e13c0a4d32b4cd325a9964b5bb207",
+    "name": "Core i3 10320(Comet Lake)",
+    "type": "cpu",
+    "price": "20200",
+    "desc": {
+      "releace_date": "2020/5/27",
+      "socket": "LGA1200",
+      "core": "4コア",
+      "clock": "3.8GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第10世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4567e330317b8acebcac9beae84ac350",
+    "name": "Ryzen 5 1600X",
+    "type": "cpu",
+    "price": "28587",
+    "desc": {
+      "releace_date": "2017/4/11",
+      "socket": "Socket AM4",
+      "core": "6コア",
+      "clock": "3.6GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "第1世代",
+      "tdp": "95W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "7209d1f45fa1381df4be47605bffc825",
+    "name": "Xeon W-1250(Comet Lake)",
+    "type": "cpu",
+    "price": "32090",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "3.3GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "de2122358405bf365e3828672701010a",
+    "name": "Core i9 9900KF(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "48900",
+    "desc": {
+      "releace_date": "2019/3/29",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "eac0f062ff4c0784bf62523e997467ba",
+    "name": "Xeon W-1290(Comet Lake)",
+    "type": "cpu",
+    "price": "63190",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "10コア",
+      "clock": "3.2GHz",
+      "thread": "20",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "5.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "717d0c2e74cc58fa19e87d3196aa29fe",
+    "name": "Ryzen Threadripper PRO 3975WX",
+    "type": "cpu",
+    "price": "359700",
+    "desc": {
+      "releace_date": "2021/3/26",
+      "socket": "Socket sWRX8",
+      "core": "32コア",
+      "clock": "3.5GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "第3世代",
+      "tdp": "280W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "128MB",
+      "cache_2nd": "16MB"
+    }
+  },
+  {
+    "id": "6e1947454c7c80635b1ec1b9035ebdbd",
+    "name": "Turion 64 X2 TL-60",
+    "type": "cpu",
+    "price": "3837",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "2コア",
+      "clock": "2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "1MB"
+    }
+  },
+  {
+    "id": "0955c831fad201ae808ffaf4bc053876",
+    "name": "Core i5 6400(Skylake)",
+    "type": "cpu",
+    "price": "22800",
+    "desc": {
+      "releace_date": "2015/9/ 2",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "2.7GHz",
+      "thread": "4",
+      "graphic": "Intel HD Graphics 530",
+      "gen": "第6世代",
+      "tdp": "65W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "210deb1bd2b2d1220ab5194797720b99",
+    "name": "Xeon E-2236(Coffee Lake)",
+    "type": "cpu",
+    "price": "36508",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.4GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3d37d7e023462d141efe03af653788bc",
+    "name": "Core i7 9700KF(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "36980",
+    "desc": {
+      "releace_date": "2019/3/29",
+      "socket": "LGA1151",
+      "core": "8コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0b07965e7c1a54016c5083e35f130435",
+    "name": "Core i7 3770",
+    "type": "cpu",
+    "price": "39980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": "8",
+      "graphic": "Intel HD Graphics 4000",
+      "gen": "",
+      "tdp": "77W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "54b359a9f31a35562b6fd74425a46b7a",
+    "name": "Core i7 8700K(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "44997",
+    "desc": {
+      "releace_date": "2017/11/ 2",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "95W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dcc34e6e32c7121bfddd19e5406a9e25",
+    "name": "EPYC 7301",
+    "type": "cpu",
+    "price": "81399",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "16コア",
+      "clock": "2.2GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "2.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "45d97b221081a914c20e27874b41dc54",
+    "name": "Xeon W-2123(Skylake-W)",
+    "type": "cpu",
+    "price": "37619",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2f6b96abcea52549ffc69fc03bcf05b9",
+    "name": "Xeon W-3245(Cascade Lake)",
+    "type": "cpu",
+    "price": "263999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "3.2GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e3d5863231a0f0e7b7a39b63abcc0447",
+    "name": "Xeon Gold 6238R(Cascade Lake)",
+    "type": "cpu",
+    "price": "316100",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "2.2GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "165W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a4af779e07faa747f8abec24412309db",
+    "name": "Xeon Platinum 8180(Skylake-SP)",
+    "type": "cpu",
+    "price": "1219800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "2.5GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "3.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d555b52def68462f877ae185f32dad09",
+    "name": "Pentium Gold G6605(Comet Lake)",
+    "type": "cpu",
+    "price": "13000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "2コア",
+      "clock": "4.3GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "",
+      "tdp": "",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "88332362165d35e6cecf1983d9c26881",
+    "name": "Core i3 9350KF(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "17800",
+    "desc": {
+      "releace_date": "2019/4/12",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "91W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0c3d7cea1fb3a66f29f5135c1a0ef5db",
+    "name": "Core i5 9600KF(Coffee Lake-S Refresh)",
+    "type": "cpu",
+    "price": "20580",
+    "desc": {
+      "releace_date": "2019/3/29",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "95W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a8b1a7750565481dc34ddb9bfba7f9bb",
+    "name": "Core i5 8400(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "23800",
+    "desc": {
+      "releace_date": "2017/11/ 2",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "2.8GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "65W",
+      "clock_max": "4GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "35de561af31ed4ca17f51769edee4e2c",
+    "name": "Core i5 6600K(Skylake)",
+    "type": "cpu",
+    "price": "25480",
+    "desc": {
+      "releace_date": "2015/8",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.5GHz",
+      "thread": "4",
+      "graphic": "Intel HD Graphics 530",
+      "gen": "第6世代",
+      "tdp": "91W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "75613190a3cc323af04199b93c23ff51",
+    "name": "Xeon Bronze 3104(Skylake-SP)",
+    "type": "cpu",
+    "price": "26839",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "6コア",
+      "clock": "1.7GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "726296435d9972db127184e6151f8a8f",
+    "name": "Core i5 7640X(Kaby Lake-X)",
+    "type": "cpu",
+    "price": "28800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "第7世代",
+      "tdp": "112W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "942d8330fd3e2f874603f24554da37c0",
+    "name": "Xeon E-2226G(Coffee Lake)",
+    "type": "cpu",
+    "price": "33549",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.4GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e8014354189ee73c57486e95abc36bb8",
+    "name": "Core i7 4770(Haswell)",
+    "type": "cpu",
+    "price": "34980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1150",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": "8",
+      "graphic": "Intel HD Graphics 4600",
+      "gen": "第4世代",
+      "tdp": "84W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "5f97c7b0c86f6e50878380dbf8de7a77",
+    "name": "Core i7 6700(Skylake)",
+    "type": "cpu",
+    "price": "37480",
+    "desc": {
+      "releace_date": "2015/9/ 2",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 530",
+      "gen": "第6世代",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "879b949a298cd5b07425f7c90171fc20",
+    "name": "Core i7 7700(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "42980",
+    "desc": {
+      "releace_date": "2017/1/ 6",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "第7世代",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "761733deef8d89341253e3251dee6b60",
+    "name": "Xeon W-1270(Comet Lake)",
+    "type": "cpu",
+    "price": "43970",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.4GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4e7917158c52e2e2362efa0d87062e37",
+    "name": "Ryzen 7 2700X",
+    "type": "cpu",
+    "price": "43978",
+    "desc": {
+      "releace_date": "2018/4/19",
+      "socket": "Socket AM4",
+      "core": "8コア",
+      "clock": "3.7GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "第2世代",
+      "tdp": "105W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "906fb6f3675bcfb1d0b51397502e229e",
+    "name": "Xeon E3-1275V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "45649",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.8GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "73W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "604dc55e23073c4a3acd7c87fff2d8fa",
+    "name": "Xeon E-2176G(Coffee Lake)",
+    "type": "cpu",
+    "price": "47959",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "821466922591536ac5038612fab0702e",
+    "name": "Xeon W-1270P(Comet Lake)",
+    "type": "cpu",
+    "price": "52090",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "8コア",
+      "clock": "3.8GHz",
+      "thread": "16",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "5.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f62c25b7840dfc09d1375f9937a027ee",
+    "name": "Xeon Silver 4208(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "53200",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "2.1GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "08a0abfb6700773c895bea00fa5519a2",
+    "name": "Xeon E5-2620V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "53899",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "8コア",
+      "clock": "2.1GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "24332936ec34e47e38cabd4861fa2ce1",
+    "name": "Core i9 10920X(Cascade Lake)",
+    "type": "cpu",
+    "price": "81399",
+    "desc": {
+      "releace_date": "2019/12/13",
+      "socket": "LGA2066",
+      "core": "12コア",
+      "clock": "3.5GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "165W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "66058937629d9776a6d2aece06793840",
+    "name": "Core i9 9980XE(Skylake-X Refresh)",
+    "type": "cpu",
+    "price": "98000",
+    "desc": {
+      "releace_date": "2018/11",
+      "socket": "LGA2066",
+      "core": "18コア",
+      "clock": "3GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "165W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ed2d6894deaa0dcf481c09427b714edd",
+    "name": "Xeon W-2195(Skylake-W)",
+    "type": "cpu",
+    "price": "369359",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "18コア",
+      "clock": "2.3GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dc40c5822b10526ffe88a160d390a448",
+    "name": "Xeon W-3175X(Skylake)",
+    "type": "cpu",
+    "price": "375979",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "3.1GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "255W",
+      "clock_max": "3.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "467f82a54883ac08d5f42001ad83457f",
+    "name": "Core i5 7400(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "23800",
+    "desc": {
+      "releace_date": "2017/1/ 6",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3GHz",
+      "thread": "4",
+      "graphic": "Intel HD Graphics 630",
+      "gen": "第7世代",
+      "tdp": "65W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "",
+      "cache_3rd": "6MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "26b029484f42f4be1b19a490f2826296",
+    "name": "Xeon E-2124(Coffee Lake)",
+    "type": "cpu",
+    "price": "24859",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.3GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "028b61669c9e31e04d2edd8e8fbf68ae",
+    "name": "Xeon E-2224(Coffee Lake)",
+    "type": "cpu",
+    "price": "25629",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "104dae288b66b201e6262b5adb51dc6c",
+    "name": "Xeon E3-1220V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "26179",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3GHz",
+      "thread": "4",
+      "graphic": "",
+      "gen": "",
+      "tdp": "72W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8c91d8ab2fdd701aafb846fcb5c3c804",
+    "name": "Xeon E-2224G(Coffee Lake)",
+    "type": "cpu",
+    "price": "27829",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.5GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ff0ba624df7d9ddaa7a1261b31252d85",
+    "name": "Xeon E3-1225V5(Skylake)",
+    "type": "cpu",
+    "price": "28489",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.3GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics P530",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e2f3666b5a565c18e830d2de7bad966d",
+    "name": "Core i5 9600(Coffee Lake)",
+    "type": "cpu",
+    "price": "30195",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.1GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2d2fec546210d0564765aaeaba9c98a3",
+    "name": "Xeon W-2223(Cascade Lake)",
+    "type": "cpu",
+    "price": "37949",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "237f2c0a984409cbc44fa087bbabf25e",
+    "name": "Core i7 6700K(Skylake)",
+    "type": "cpu",
+    "price": "40780",
+    "desc": {
+      "releace_date": "2015/8",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "8",
+      "graphic": "Intel HD Graphics 530",
+      "gen": "第6世代",
+      "tdp": "91W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "782b17da8b7d4a5ef371d90266530de8",
+    "name": "Xeon E-2146G(Coffee Lake)",
+    "type": "cpu",
+    "price": "40809",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.5GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e240895f29f9072f2489af3e08fd4daf",
+    "name": "Xeon Silver 4108(Skylake-SP)",
+    "type": "cpu",
+    "price": "52750",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "1.8GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e049ff96848b0a72a17cba8e78331e2f",
+    "name": "Xeon E5-1630V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "54800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "10MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a3bdb2926e5742377d783a0cc8267a03",
+    "name": "Xeon Silver 4112(Skylake-SP)",
+    "type": "cpu",
+    "price": "61929",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "4コア",
+      "clock": "2.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "beeae61880b5172532b434b487a0373e",
+    "name": "Xeon Silver 4210(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "62480",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "14MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0e5ee79e31ddaea87d81e4a1fa8e8792",
+    "name": "Xeon Silver 4210R(Cascade Lake)",
+    "type": "cpu",
+    "price": "62500",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "10コア",
+      "clock": "2.4GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "100W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "13.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e91cc6c368bad05c2bc65c47ce4e1217",
+    "name": "Xeon W-2125(Skylake-W)",
+    "type": "cpu",
+    "price": "64799",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6d0ef46ed06b14e2f278f3aca468c12e",
+    "name": "Xeon W-2235(Cascade Lake)",
+    "type": "cpu",
+    "price": "68969",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "6コア",
+      "clock": "3.8GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "403946e9d06ffc24e796a7212a8a1b0f",
+    "name": "Core i9 10940X(Cascade Lake)",
+    "type": "cpu",
+    "price": "86957",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "14コア",
+      "clock": "3.3GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "第10世代",
+      "tdp": "165W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "490947078d4aacb953c606410643c26f",
+    "name": "Xeon Silver 4114(Skylake-SP)",
+    "type": "cpu",
+    "price": "89979",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "13.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "74685e69696ab26c7a07bae9778c2382",
+    "name": "Xeon Silver 4214R(Cascade Lake)",
+    "type": "cpu",
+    "price": "90999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "2.4GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "100W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "705cb8cf9370762e31695e78a9782b1e",
+    "name": "Xeon W-3223(Cascade Lake)",
+    "type": "cpu",
+    "price": "102959",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "3.5GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "160W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b567fca3d2335779f32dfdb89f210fd6",
+    "name": "Xeon W-2135(Skylake-W)",
+    "type": "cpu",
+    "price": "104389",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "41a94e5eb4481519bc23688a04d2142d",
+    "name": "Xeon E5-2640V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "109800",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "2.4GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "90W",
+      "clock_max": "3.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "49db8b6728bd8f1c4d38c2cfbbcf3906",
+    "name": "EPYC 7351P",
+    "type": "cpu",
+    "price": "109999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "16コア",
+      "clock": "2.4GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "2.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f50d53b4808c0cbd0b848d64be901862",
+    "name": "Core i9 7920X(Skylake-X)",
+    "type": "cpu",
+    "price": "117699",
+    "desc": {
+      "releace_date": "2017/9/上旬",
+      "socket": "LGA2066",
+      "core": "12コア",
+      "clock": "2.9GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "第7世代",
+      "tdp": "140W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e4b54bfe9f147af283cf1e2c42e74dd2",
+    "name": "Xeon W-3225(Cascade Lake)",
+    "type": "cpu",
+    "price": "159499",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "3.7GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "160W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d92899fb8b34abee19edca77f51a9324",
+    "name": "Xeon W-3235(Cascade Lake)",
+    "type": "cpu",
+    "price": "186999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "3.3GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "180W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d61c738793c0d3b90fb0406875dab398",
+    "name": "Xeon W-2155(Skylake-W)",
+    "type": "cpu",
+    "price": "188783",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "10コア",
+      "clock": "3.3GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "13.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4a484c763b5560f972bf24e2f176a66d",
+    "name": "Xeon Gold 6230(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "237599",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "20コア",
+      "clock": "2.1GHz",
+      "thread": "40",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "28MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dc29f36643ee28bba23287d4a10bd3fd",
+    "name": "Xeon E5-2697V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "362999",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "18コア",
+      "clock": "2.3GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "145W",
+      "clock_max": "3.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "45MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "886ef387971cc147c6a9bbc4c9c6d41c",
+    "name": "Xeon Gold 6248(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "379900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "20コア",
+      "clock": "2.5GHz",
+      "thread": "40",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "28MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dce3345bf25bafac8d7d22f0906c521d",
+    "name": "Xeon W-3265(Cascade Lake)",
+    "type": "cpu",
+    "price": "434389",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.7GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "33MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2836983d971c72694d509c3d86970d98",
+    "name": "EPYC 7551",
+    "type": "cpu",
+    "price": "532069",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "32コア",
+      "clock": "2GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "",
+      "tdp": "180W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1220b60f2928fb0f8cc562419ea27aa8",
+    "name": "EPYC 7501",
+    "type": "cpu",
+    "price": "581899",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "32コア",
+      "clock": "2GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ffd7d31d6d4714cb57bbc89702bc9bcb",
+    "name": "Xeon W-3275M(Cascade Lake)",
+    "type": "cpu",
+    "price": "967999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "2.5GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a8e78182dabd6a38a2265ee990f3a871",
+    "name": "Xeon Platinum 8176(Skylake-SP)",
+    "type": "cpu",
+    "price": "1064900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "2.1GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "165W",
+      "clock_max": "3.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0a1e7a83259c92cebf05742f43903899",
+    "name": "Celeron 440",
+    "type": "cpu",
+    "price": "3280",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA775",
+      "core": "1コア",
+      "clock": "2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "35W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "512KB"
+    }
+  },
+  {
+    "id": "4fa748040ea7741c9b50fd202feb5207",
+    "name": "Core Duo T2300E",
+    "type": "cpu",
+    "price": "3968",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "2コア",
+      "clock": "1.66GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "31W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "2MB"
+    }
+  },
+  {
+    "id": "f177ff88790e15dc80c4a13b7a801275",
+    "name": "Core 2 Duo E7300",
+    "type": "cpu",
+    "price": "9880",
+    "desc": {
+      "releace_date": "2008/8",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "2.66GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "ef6b6b47f0ac5b17d079d55ebe49a8f1",
+    "name": "Core i3 2120",
+    "type": "cpu",
+    "price": "9980",
+    "desc": {
+      "releace_date": "2011/2/20",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "3.3GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 2000",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "fc17e2c6b0018d3fe5e3ba5895fa0cd7",
+    "name": "Core i3 540",
+    "type": "cpu",
+    "price": "9980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1156",
+      "core": "2コア",
+      "clock": "3.06GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics",
+      "gen": "",
+      "tdp": "73W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "aee2573f8b098248a9ad709b2d2f26b3",
+    "name": "Core 2 Duo E7500",
+    "type": "cpu",
+    "price": "9999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "2.93GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "f7cce28d6e2c2304ac952047fb585770",
+    "name": "Pentium Dual-Core G620",
+    "type": "cpu",
+    "price": "9999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "2.6GHz",
+      "thread": "2",
+      "graphic": "Intel HD Graphics",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "71eedf86efb25bdcefdd40ecb09ba6ba",
+    "name": "Core 2 Duo E7400",
+    "type": "cpu",
+    "price": "10343",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "2.8GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "3MB"
+    }
+  },
+  {
+    "id": "7e2881492c3f6a560e3e16db318f7bce",
+    "name": "Core 2 Duo E8400",
+    "type": "cpu",
+    "price": "12522",
+    "desc": {
+      "releace_date": "2008/1",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "3GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "fa701f9ead84594fdc10c00694936ee3",
+    "name": "Pentium Gold G5620(Coffee Lake Refresh)",
+    "type": "cpu",
+    "price": "12595",
+    "desc": {
+      "releace_date": "2019/11/15",
+      "socket": "LGA1151",
+      "core": "2コア",
+      "clock": "4GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "54W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "baf218c74ff1213dfe425acea8542d31",
+    "name": "Core i5 660",
+    "type": "cpu",
+    "price": "12980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1156",
+      "core": "2コア",
+      "clock": "3.33GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics",
+      "gen": "",
+      "tdp": "73W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "4MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2e5e85f31210523aafad99a42f4b0abb",
+    "name": "Core 2 Duo E8500",
+    "type": "cpu",
+    "price": "13480",
+    "desc": {
+      "releace_date": "2008/1",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "3.16GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "a2075e4aa1e411809ac508ac6541cdda",
+    "name": "Core 2 Duo E8600",
+    "type": "cpu",
+    "price": "13980",
+    "desc": {
+      "releace_date": "2008/8",
+      "socket": "LGA775",
+      "core": "2コア",
+      "clock": "3.33GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "6e1e2622fa38f963e79dee4685a2479c",
+    "name": "Core i3 2100",
+    "type": "cpu",
+    "price": "14280",
+    "desc": {
+      "releace_date": "2011/2/20",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "3.1GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 2000",
+      "gen": "第2世代",
+      "tdp": "65W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "fc4e2a5ec0f1ee61edbe1da6934113e3",
+    "name": "Core i3 3240(Ivy Bridge)",
+    "type": "cpu",
+    "price": "14980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "3.4GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 2500",
+      "gen": "第3世代",
+      "tdp": "55W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f2e0cfcde42548079a4c44d5245fdb02",
+    "name": "Core i3 3220(Ivy Bridge)",
+    "type": "cpu",
+    "price": "15980",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1155",
+      "core": "2コア",
+      "clock": "3.3GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 2500",
+      "gen": "第3世代",
+      "tdp": "55W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "3MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8ed1cd0e847f9b92ac5da2f72fb06dc8",
+    "name": "Core 2 Quad Q9400",
+    "type": "cpu",
+    "price": "19979",
+    "desc": {
+      "releace_date": "2008/8",
+      "socket": "LGA775",
+      "core": "4コア",
+      "clock": "2.66GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "6MB"
+    }
+  },
+  {
+    "id": "783de40bccf67934ec5117d858377440",
+    "name": "Core i3 8350K(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "23458",
+    "desc": {
+      "releace_date": "2017/11/ 2",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "91W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "badac96f27640ad8960807ae15130b74",
+    "name": "Core i5 9500F(Coffee Lake Refresh)",
+    "type": "cpu",
+    "price": "23705",
+    "desc": {
+      "releace_date": "2019/11/22",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "736ee6999a62abd0a848e0be8b108a81",
+    "name": "Core i5 9500(Coffee Lake)",
+    "type": "cpu",
+    "price": "25894",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第9世代",
+      "tdp": "65W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3ba1f461e05b00d3c1b3257cb483defe",
+    "name": "Core i5 8600(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "26839",
+    "desc": {
+      "releace_date": "2018/4/ 3",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.1GHz",
+      "thread": "6",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "65W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "",
+      "cache_3rd": "9MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8f9f4542a6aca5baf54fe4cafd95b193",
+    "name": "Opteron 2214 HE",
+    "type": "cpu",
+    "price": "27499",
+    "desc": {
+      "releace_date": "-",
+      "socket": "Socket F",
+      "core": "2コア",
+      "clock": "2.2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "68W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "",
+      "cache_2nd": "2MB"
+    }
+  },
+  {
+    "id": "08e08ca762da913ff8c9959db45352b8",
+    "name": "Xeon Bronze 3204(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "27906",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "6コア",
+      "clock": "1.9GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "1.9GHz",
+      "multi_thread": "",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "78ce2e17ad6ffec745759a48167241c1",
+    "name": "Xeon E-2124G(Coffee Lake)",
+    "type": "cpu",
+    "price": "28379",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": "4",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "bb50bbf6f6cec72a09818ae483a9a867",
+    "name": "Xeon E3-1225V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "29290",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.3GHz",
+      "thread": "4",
+      "graphic": "Intel HD Graphics P630",
+      "gen": "",
+      "tdp": "73W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "005c54a500d8ba411c4f9a97db20a9b5",
+    "name": "Xeon E-2134(Coffee Lake)",
+    "type": "cpu",
+    "price": "32999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.5GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "adba216f8b3be6ae5f67c94caa3cc2a5",
+    "name": "Xeon E-2234(Coffee Lake)",
+    "type": "cpu",
+    "price": "33329",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ac7e6d5639bca21a4961f09cdd3e7233",
+    "name": "Xeon E3-1230V6(Kaby Lake)",
+    "type": "cpu",
+    "price": "34190",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.5GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "72W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dc82419b8211aedbd49419311a596335",
+    "name": "Core i7 2600",
+    "type": "cpu",
+    "price": "36980",
+    "desc": {
+      "releace_date": "2011/1/ 9",
+      "socket": "LGA1155",
+      "core": "4コア",
+      "clock": "3.4GHz",
+      "thread": " ",
+      "graphic": "Intel HD Graphics 2000",
+      "gen": "第2世代",
+      "tdp": "95W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e3c6aa005ad68834fab25cb90f6debcf",
+    "name": "Xeon E3-1240V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "36990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "72W",
+      "clock_max": "4.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "cf56011966c9a3f52396e00a95ebdb02",
+    "name": "Xeon E-2136(Coffee Lake)",
+    "type": "cpu",
+    "price": "37289",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.3GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "80W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "d5f5a5b5642de9f99bb480a67e645c38",
+    "name": "Xeon E5-1620V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "37399",
+    "desc": {
+      "releace_date": "2016/6",
+      "socket": "LGA2011-3",
+      "core": "4コア",
+      "clock": "3.5GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "3.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "10MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "fc962624573d32d3b3f1a9f18f7420bf",
+    "name": "Xeon Bronze 3106(Skylake-SP)",
+    "type": "cpu",
+    "price": "37949",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "1.7GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1884f9f62d3f8e2ac368edabd40ad1e8",
+    "name": "Xeon E3-1245V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "38100",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.7GHz",
+      "thread": "8",
+      "graphic": "Intel HD Graphics P630",
+      "gen": "",
+      "tdp": "73W",
+      "clock_max": "4.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6012a3b4542d20ac6c0ddc880d9906ae",
+    "name": "Xeon W-1250P(Comet Lake)",
+    "type": "cpu",
+    "price": "38490",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1200",
+      "core": "6コア",
+      "clock": "4.1GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "4.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "267761e72029526a44165a3cae300b86",
+    "name": "Xeon Bronze 3206R(Cascade Lake)",
+    "type": "cpu",
+    "price": "39999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "1.9GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "1.9GHz",
+      "multi_thread": "",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "64c67bcdff3ae225aa22e0580a84372c",
+    "name": "Xeon E5-2609V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "41855",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "8コア",
+      "clock": "1.7GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "13464a6d1295595d3d4ed2335649c291",
+    "name": "Xeon E-2174G(Coffee Lake)",
+    "type": "cpu",
+    "price": "42899",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.8GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "71W",
+      "clock_max": "4.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2d106fa4390f348984a98224c17417b8",
+    "name": "Xeon E-2274G(Coffee Lake)",
+    "type": "cpu",
+    "price": "43559",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "4GHz",
+      "thread": "8",
+      "graphic": "Intel UHD Graphics P630",
+      "gen": "",
+      "tdp": "83W",
+      "clock_max": "4.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "77a7cf6293b94bfe45a3efea13c99461",
+    "name": "Xeon E3-1270V6(Kaby Lake-S)",
+    "type": "cpu",
+    "price": "43779",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "4コア",
+      "clock": "3.8GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "72W",
+      "clock_max": "4.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "13c0dd262dc88547a17c50187144e787",
+    "name": "Xeon W-2123(Skylake-W)",
+    "type": "cpu",
+    "price": "47303",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "df3aec5626dca4e98c974858e99d526d",
+    "name": "Core i7 8700(Coffee Lake-S)",
+    "type": "cpu",
+    "price": "47800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA1151",
+      "core": "6コア",
+      "clock": "3.2GHz",
+      "thread": "12",
+      "graphic": "Intel UHD Graphics 630",
+      "gen": "第8世代",
+      "tdp": "65W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "37817c3c87a20ad4f903e51a31a7abc9",
+    "name": "Xeon Silver 4110(Skylake-SP)",
+    "type": "cpu",
+    "price": "64800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "2.1GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "eeffc60cd4cfef686a4a3ea4f1276607",
+    "name": "Xeon Silver 4210(Cascade Lake)",
+    "type": "cpu",
+    "price": "65999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "13.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "c9be395c4dfbacba836821980499e45a",
+    "name": "Xeon Silver 4112(Skylake-SP)",
+    "type": "cpu",
+    "price": "74249",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "4コア",
+      "clock": "2.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a65e63e4df10a644972059c81a36a427",
+    "name": "Xeon Silver 4110(Skylake-SP)",
+    "type": "cpu",
+    "price": "75789",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "2.1GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "74b6a77ec4150b63832405f8aba6d36a",
+    "name": "Xeon E5-1650V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "78979",
+    "desc": {
+      "releace_date": "2016/6",
+      "socket": "LGA2011-3",
+      "core": "6コア",
+      "clock": "3.6GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "15MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "110007239782c334f935b53af30e640c",
+    "name": "Xeon E5-2630V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "79969",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6597a4d17ced0bfac759c24d3f60fb47",
+    "name": "Core i9 7900X(Skylake-X)",
+    "type": "cpu",
+    "price": "85000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "10コア",
+      "clock": "3.3GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "第7世代",
+      "tdp": "140W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "13.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "5cd8271dd8d6ea287ff1bd76fa93e279",
+    "name": "Core i9 9940X(Skylake-X Refresh)",
+    "type": "cpu",
+    "price": "85799",
+    "desc": {
+      "releace_date": "2018/11",
+      "socket": "LGA2066",
+      "core": "14コア",
+      "clock": "3.3GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "165W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0032805461d2020accac99ec0931c9dc",
+    "name": "Xeon Silver 4214(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "86440",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "2.2GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f399948371abd1f19fb7f8126dcc6e9c",
+    "name": "Xeon W-2133(Skylake-W)",
+    "type": "cpu",
+    "price": "87371",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "6コア",
+      "clock": "3.6GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "75eab1ba6fc15c6270501268fcf92aa3",
+    "name": "Xeon E5-2630V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "87559",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.1GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3570d7447388b26ac287f77e581d93b0",
+    "name": "Xeon Silver 4214(Cascade Lake)",
+    "type": "cpu",
+    "price": "88879",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "2.2GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "868c9a8bdee2c85f0775321f194cf551",
+    "name": "Core i9 7940X(Skylake-X)",
+    "type": "cpu",
+    "price": "94565",
+    "desc": {
+      "releace_date": "2017/10/25",
+      "socket": "LGA2066",
+      "core": "14コア",
+      "clock": "3.1GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "第7世代",
+      "tdp": "165W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "74330064b61d2f5a65a0460be5624786",
+    "name": "EPYC 7251",
+    "type": "cpu",
+    "price": "98779",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "8コア",
+      "clock": "2.1GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "2.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "32MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6850075ef5b3bcad92c9aa8e1a8d306b",
+    "name": "Xeon Silver 4216(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "117500",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.1GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "100W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1121bb83ffdb1b51f8a54bead9578a1e",
+    "name": "Xeon W-2135(Skylake-W)",
+    "type": "cpu",
+    "price": "118799",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "6コア",
+      "clock": "3.7GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "8.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3a6c0aa3aace0937a7d8f48b0f3b6cf2",
+    "name": "Xeon Silver 4116(Skylake-SP)",
+    "type": "cpu",
+    "price": "128699",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "2.1GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "875b3cdf7755741449e6ee64189ec247",
+    "name": "Xeon 5080",
+    "type": "cpu",
+    "price": "130568",
+    "desc": {
+      "releace_date": "-",
+      "socket": "Socket 771",
+      "core": "2コア",
+      "clock": "3.73GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "",
+      "cache_2nd": "4MB"
+    }
+  },
+  {
+    "id": "d4ef59ae78382c9e361c83ec7c435b23",
+    "name": "Xeon E5-4603",
+    "type": "cpu",
+    "price": "140673",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "4コア",
+      "clock": "2GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "10MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3c6198b7525a91a32a66676a0a2956ea",
+    "name": "Xeon Silver 4116(Skylake-SP)",
+    "type": "cpu",
+    "price": "146299",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "12コア",
+      "clock": "2.1GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "85W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "72b4c301d891dde851ee56118a2f23dc",
+    "name": "Xeon E5-1660V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "146629",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "8コア",
+      "clock": "3.2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "c0d63f7ceb4572850b4193177f4647d2",
+    "name": "Core i9 9960X(Skylake-X Refresh)",
+    "type": "cpu",
+    "price": "148389",
+    "desc": {
+      "releace_date": "2018/11",
+      "socket": "LGA2066",
+      "core": "16コア",
+      "clock": "3.1GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "第9世代",
+      "tdp": "165W",
+      "clock_max": "4.4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "dc613bcd6cb8df0bd076d21d09d84b28",
+    "name": "Xeon E5-2650V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "149599",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "12コア",
+      "clock": "2.2GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "2.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "30MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "8ff7cd006133ade7a56dc0f9ce33a530",
+    "name": "Xeon Gold 5122(Skylake-SP)",
+    "type": "cpu",
+    "price": "149890",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "4コア",
+      "clock": "3.6GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a1e97e4187a1cca8a1a3baaf833638b0",
+    "name": "Xeon E5-2650V3(Haswell-EP)",
+    "type": "cpu",
+    "price": "156197",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "2.3GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "29e5fc3923eaa5530ec0970607c471fb",
+    "name": "Xeon Gold 5218R(Cascade Lake)",
+    "type": "cpu",
+    "price": "156500",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "20コア",
+      "clock": "2.1GHz",
+      "thread": "40",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "27.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0f94502d66fdbb656a02617e00667882",
+    "name": "EPYC 7401P",
+    "type": "cpu",
+    "price": "156639",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "24コア",
+      "clock": "2GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "0d437f1620278fc47221f2b0feb47efd",
+    "name": "Xeon W-2145(Skylake-W)",
+    "type": "cpu",
+    "price": "159839",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "8コア",
+      "clock": "3.7GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "11MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9f04547ce1aaa66b299aefa7ce9b23b3",
+    "name": "Xeon Gold 5218(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "160800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.3GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2756e16ffb888c3e78cbb0be7133bd09",
+    "name": "Xeon E5-2670V2(Ivy Bridge)",
+    "type": "cpu",
+    "price": "165800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "10コア",
+      "clock": "2.5GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "115W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3ad0f85c5c8af111c6aba71deb00d059",
+    "name": "Xeon Gold 6226R(Cascade Lake)",
+    "type": "cpu",
+    "price": "168685",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.9GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9fdb47d2b8d9c1fab0b139f15c0a6390",
+    "name": "Xeon E5-2660V2(Ivy Bridge)",
+    "type": "cpu",
+    "price": "170392",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "10コア",
+      "clock": "2.2GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ad1433776bfe1149318c1f7fb084eed1",
+    "name": "Xeon Gold 5120(Skylake-SP)",
+    "type": "cpu",
+    "price": "185790",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "14コア",
+      "clock": "2.2GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1d01b52e4cbedabd9ddfa18b31ed8f71",
+    "name": "Xeon E5-2670V2(Ivy Bridge)",
+    "type": "cpu",
+    "price": "187822",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "10コア",
+      "clock": "2.5GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "115W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b61f4ac0138d7dd066674a9e71282b1a",
+    "name": "Xeon Gold 5220(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "190900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "18コア",
+      "clock": "2.2GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b9e884c8939979e759ffc564da655234",
+    "name": "Xeon Gold 5220R(Cascade Lake)",
+    "type": "cpu",
+    "price": "190900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.2GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "100b5aca6a97078aea7fb536bd478423",
+    "name": "Xeon E5-2660V3(Haswell-EP)",
+    "type": "cpu",
+    "price": "197248",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "2.6GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a16d4a6447e5dde8906d7ba71a7b7efb",
+    "name": "EPYC 7351",
+    "type": "cpu",
+    "price": "197999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "16コア",
+      "clock": "2.4GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "2.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "faba040a6824761a1679a6e58a83a36d",
+    "name": "Opteron 6140",
+    "type": "cpu",
+    "price": "205307",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "8コア",
+      "clock": "2.6GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "115W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "12MB",
+      "cache_2nd": "512KB"
+    }
+  },
+  {
+    "id": "10d272a86ca92235192b936835679309",
+    "name": "Xeon Gold 6128(Skylake-SP)",
+    "type": "cpu",
+    "price": "205990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "6コア",
+      "clock": "3.4GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "115W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4438f7410e6982fc3a0668c081a44c03",
+    "name": "Xeon E5-2660V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "219999",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "14コア",
+      "clock": "2GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "bd8147a23a4990eb089c2683442f1664",
+    "name": "Xeon E5-2680V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "223959",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "14コア",
+      "clock": "2.4GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9699b61f61cb1d753dce871754ba0394",
+    "name": "Xeon E5-4607",
+    "type": "cpu",
+    "price": "225147",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "6コア",
+      "clock": "2.2GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "",
+      "multi_thread": "○",
+      "cache_3rd": "12MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "be1ad5ace6ede53de8d9d69ba789ea93",
+    "name": "Xeon E5-1680V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "225611",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "8コア",
+      "clock": "3.4GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "281e21134e869c039ff5a0ec8c5ab237",
+    "name": "Xeon Gold 6230R(Cascade Lake)",
+    "type": "cpu",
+    "price": "229400",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "26コア",
+      "clock": "2.1GHz",
+      "thread": "52",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "31a73a0bf1686f9c0de6af55ea2921dd",
+    "name": "Xeon Gold 6130(Skylake-SP)",
+    "type": "cpu",
+    "price": "229890",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.1GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "cd51f2cd8232d448a9ca594ddcc13c59",
+    "name": "Xeon E5-2683V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "233199",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "16コア",
+      "clock": "2.1GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "40MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f5436894188382cf6ed4519bd2674811",
+    "name": "Xeon E5-2680V3(Haswell-EP)",
+    "type": "cpu",
+    "price": "238192",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "12コア",
+      "clock": "2.5GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "30MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6a1995326e52c449587356418c87607f",
+    "name": "Xeon E5-2643",
+    "type": "cpu",
+    "price": "239497",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "4コア",
+      "clock": "3.3GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "10MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ef8d54821cf67fdc0749b2cc60b138ff",
+    "name": "Xeon E5-2690V2(Ivy Bridge)",
+    "type": "cpu",
+    "price": "249403",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "10コア",
+      "clock": "3GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "3.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1f1a229821018adf470ff1c7f07f5a71",
+    "name": "Xeon E5-2690V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "263999",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "14コア",
+      "clock": "2.6GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "",
+      "tdp": "135W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "41398f542c23a292bdce591a493949f2",
+    "name": "Xeon W-2175(Skylake-W)",
+    "type": "cpu",
+    "price": "264815",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2066",
+      "core": "14コア",
+      "clock": "2.5GHz",
+      "thread": "28",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "4.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "19MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "73b02f1224c9c7257a6f2b40e2f8bc7a",
+    "name": "Xeon E5-2687WV4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "265979",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "12コア",
+      "clock": "3GHz",
+      "thread": "24",
+      "graphic": "",
+      "gen": "",
+      "tdp": "160W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "30MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "055b6b85e7c17db573d7540a5797a291",
+    "name": "Xeon Gold 6134(Skylake-SP)",
+    "type": "cpu",
+    "price": "267790",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "3.2GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "369da243d136943465d7b4578aa6e896",
+    "name": "Xeon Gold 6234(Cascade Lake)",
+    "type": "cpu",
+    "price": "267900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "8コア",
+      "clock": "3.3GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "aa1539b5a5e9595c13b6b56e9c82555b",
+    "name": "Xeon E5-4610",
+    "type": "cpu",
+    "price": "268624",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "6コア",
+      "clock": "2.4GHz",
+      "thread": "12",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "2.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "15MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3816136a854a808a4bd9cb08f0f62082",
+    "name": "Xeon Gold 6240R(Cascade Lake)",
+    "type": "cpu",
+    "price": "269700",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.4GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "165W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2d11feb262fe723bcd9ec5d6a1c12c74",
+    "name": "Xeon E5-2687WV3(Haswell-EP)",
+    "type": "cpu",
+    "price": "282109",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "10コア",
+      "clock": "3.1GHz",
+      "thread": "20",
+      "graphic": "",
+      "gen": "",
+      "tdp": "160W",
+      "clock_max": "3.5GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1fef4ce5461e6eacf60a3c8a120d8522",
+    "name": "Xeon E5-2690V3(Haswell-EP)",
+    "type": "cpu",
+    "price": "285097",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011-3",
+      "core": "12コア",
+      "clock": "2.6GHz",
+      "thread": " ",
+      "graphic": "",
+      "gen": "",
+      "tdp": "135W",
+      "clock_max": "",
+      "multi_thread": "",
+      "cache_3rd": "30MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4e7f125c426495d4b187b21856037b99",
+    "name": "Xeon E5-2650L",
+    "type": "cpu",
+    "price": "291578",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "8コア",
+      "clock": "1.8GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "70W",
+      "clock_max": "2.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "5ecd29fb8d27da0c1616d2fab69f6bf1",
+    "name": "Xeon Gold 6140(Skylake-SP)",
+    "type": "cpu",
+    "price": "299890",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "18コア",
+      "clock": "2.3GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "24.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "7547be0eb747369da214abcf4ac67fa3",
+    "name": "Xeon E5-2695V4(Broadwell-EP)",
+    "type": "cpu",
+    "price": "306459",
+    "desc": {
+      "releace_date": "2016/4",
+      "socket": "LGA2011-3",
+      "core": "18コア",
+      "clock": "2.1GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "120W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "45MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "962e0af49aeba67cf905e85d4cf9ed39",
+    "name": "Xeon Gold 6240(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "306800",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "18コア",
+      "clock": "2.6GHz",
+      "thread": "36",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "a8da4a37726c38fc70db8b41c6a6721e",
+    "name": "Xeon Gold 6242(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "312400",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.8GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f3efb06d3d807a873d72d442ea542461",
+    "name": "Xeon Gold 6238(Cascade Lake)",
+    "type": "cpu",
+    "price": "316100",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "22コア",
+      "clock": "2.1GHz",
+      "thread": "44",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "30.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "34724ff347a61fcd4b54a622c9bf9cfd",
+    "name": "Xeon Gold 6138(Skylake-SP)",
+    "type": "cpu",
+    "price": "321990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "20コア",
+      "clock": "2GHz",
+      "thread": "40",
+      "graphic": "",
+      "gen": "",
+      "tdp": "125W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "27.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "3c86bb8d471c13b27a9e561171094f14",
+    "name": "EPYC 7401",
+    "type": "cpu",
+    "price": "329999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "24コア",
+      "clock": "2GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "170W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "b824c9a1498ca1f0c642cba7a0876866",
+    "name": "EPYC 7551P",
+    "type": "cpu",
+    "price": "329999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "32コア",
+      "clock": "2GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "",
+      "tdp": "180W",
+      "clock_max": "3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "6d00989a00d5b753a1932f2eb14e3e31",
+    "name": "Xeon Gold 6248R(Cascade Lake)",
+    "type": "cpu",
+    "price": "358000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "3GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "286b5ac5e5699242b78593b644197ba2",
+    "name": "Xeon Gold 6142(Skylake-SP)",
+    "type": "cpu",
+    "price": "360990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "2.6GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "325d59488f27de78883fd8637b8d469c",
+    "name": "Xeon Gold 6148(Skylake-SP)",
+    "type": "cpu",
+    "price": "378990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "20コア",
+      "clock": "2.4GHz",
+      "thread": "40",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "27.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "1b8fce28cd6d7742c8387a762e6bc82d",
+    "name": "Xeon E5-4620",
+    "type": "cpu",
+    "price": "388387",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "8コア",
+      "clock": "2.2GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "2.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "16MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "127212d0fe7917028e27f7119ef3ebab",
+    "name": "Xeon E5-4617",
+    "type": "cpu",
+    "price": "388615",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "6コア",
+      "clock": "2.9GHz",
+      "thread": "6",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "3.4GHz",
+      "multi_thread": "",
+      "cache_3rd": "15MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9544609d0f2acd9ecfed9870239ebbc9",
+    "name": "EPYC 7451",
+    "type": "cpu",
+    "price": "426689",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "24コア",
+      "clock": "2.3GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "180W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "f7a6d8e869c084ab9581f437d98915a2",
+    "name": "Xeon Gold 6152(Skylake-SP)",
+    "type": "cpu",
+    "price": "437690",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "22コア",
+      "clock": "2.1GHz",
+      "thread": "44",
+      "graphic": "",
+      "gen": "",
+      "tdp": "140W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "30.25MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "340ccf008157a5639e99d19df74e0e33",
+    "name": "Xeon Gold 6252(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "453000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.1GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "36MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "74e5d7e72b6065fd42fc21652a5c4d6d",
+    "name": "Xeon Platinum 8160(Skylake-SP)",
+    "type": "cpu",
+    "price": "572990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.1GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "33MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "81cf60404aebd099d5f34dff48aaf1fb",
+    "name": "Xeon W-3275(Cascade Lake)",
+    "type": "cpu",
+    "price": "579699",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "28コア",
+      "clock": "2.5GHz",
+      "thread": "56",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "38.5MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "e0062de145790fcbc5a5b16c78800141",
+    "name": "Xeon E5-4640",
+    "type": "cpu",
+    "price": "627729",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "8コア",
+      "clock": "2.4GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "95W",
+      "clock_max": "2.8GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "9e866c172e3861639e153738c35c9456",
+    "name": "Xeon W-3245M(Cascade Lake)",
+    "type": "cpu",
+    "price": "648999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "16コア",
+      "clock": "3.2GHz",
+      "thread": "32",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "22MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ca652954f10202bf6d43b89a488c86eb",
+    "name": "EPYC 7601",
+    "type": "cpu",
+    "price": "711259",
+    "desc": {
+      "releace_date": "-",
+      "socket": "",
+      "core": "32コア",
+      "clock": "2.2GHz",
+      "thread": "64",
+      "graphic": "",
+      "gen": "",
+      "tdp": "180W",
+      "clock_max": "3.2GHz",
+      "multi_thread": "○",
+      "cache_3rd": "64MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "4c13de821c14c9b05be0fcab9c336127",
+    "name": "Xeon Platinum 8164(Skylake-SP)",
+    "type": "cpu",
+    "price": "747990",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "26コア",
+      "clock": "2GHz",
+      "thread": "52",
+      "graphic": "",
+      "gen": "",
+      "tdp": "150W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "fc66cda866f3099b9db7df5293a6bb53",
+    "name": "Xeon W-3265M(Cascade Lake)",
+    "type": "cpu",
+    "price": "813999",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "24コア",
+      "clock": "2.7GHz",
+      "thread": "48",
+      "graphic": "",
+      "gen": "",
+      "tdp": "205W",
+      "clock_max": "4.6GHz",
+      "multi_thread": "○",
+      "cache_3rd": "33MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "61884aad227183f722f5712b7da17018",
+    "name": "Xeon E5-4650",
+    "type": "cpu",
+    "price": "845146",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA2011",
+      "core": "8コア",
+      "clock": "2.7GHz",
+      "thread": "16",
+      "graphic": "",
+      "gen": "",
+      "tdp": "130W",
+      "clock_max": "3.3GHz",
+      "multi_thread": "○",
+      "cache_3rd": "20MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "ee11c3329c04e983d532c7ea4eb855af",
+    "name": "Xeon Platinum 8256(Cascade Lake-SP)",
+    "type": "cpu",
+    "price": "861000",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "4コア",
+      "clock": "3.8GHz",
+      "thread": "8",
+      "graphic": "",
+      "gen": "",
+      "tdp": "105W",
+      "clock_max": "3.9GHz",
+      "multi_thread": "○",
+      "cache_3rd": "17MB",
+      "cache_2nd": ""
+    }
+  },
+  {
+    "id": "2a95ba974090e943a918351b96c9a164",
+    "name": "Xeon Platinum 8170(Skylake-SP)",
+    "type": "cpu",
+    "price": "903900",
+    "desc": {
+      "releace_date": "-",
+      "socket": "LGA3647",
+      "core": "26コア",
+      "clock": "2.1GHz",
+      "thread": "52",
+      "graphic": "",
+      "gen": "",
+      "tdp": "165W",
+      "clock_max": "3.7GHz",
+      "multi_thread": "○",
+      "cache_3rd": "35.75MB",
+      "cache_2nd": ""
+    }
+  }
+]

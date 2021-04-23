@@ -8,31 +8,34 @@ class PartsDetail extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(data['model']),
+        title: Text(data['name']),
       ),
       body: Container(
-        margin: const EdgeInsets.all(20),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              data['model'],
-              style: const TextStyle(
-                fontSize: 42,
+          margin: const EdgeInsets.all(20),
+          child: SingleChildScrollView(
+              child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                data['name'],
+                style: const TextStyle(
+                  fontSize: 30,
+                ),
               ),
-            ),
-            Container(
-              color: Colors.white,
-              child: ConstrainedBox(
-                constraints: const BoxConstraints.expand(height: 180),
-                // child: Image.network(parts['image']),
+              const SizedBox(height: 16),
+              Container(
+                color: Colors.white,
+                child: ConstrainedBox(
+                  constraints: const BoxConstraints.expand(height: 180),
+                  // child: Image.network(parts['image']),
+                ),
               ),
-            ),
-            DescriptionBox(title: 'title', text: 'text'),
-            DescriptionBox(title: 'title2', text: 'text2'),
-          ],
-        ),
-      ),
+              DescriptionBox(title: 'ソケット形状', text: data['desc']['socket']),
+              DescriptionBox(title: 'コア数', text: data['desc']['core']),
+              DescriptionBox(title: 'クロック周波数', text: data['desc']['clock']),
+              DescriptionBox(title: 'スレッド数', text: data['desc']['thread']),
+            ],
+          ))),
     );
   }
 }
@@ -45,14 +48,14 @@ class DescriptionBox extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: const EdgeInsets.symmetric(vertical: 44),
+      margin: const EdgeInsets.symmetric(vertical: 30),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
             title,
             style: const TextStyle(
-              fontSize: 36,
+              fontSize: 30,
             ),
           ),
           Container(
@@ -68,7 +71,7 @@ class DescriptionBox extends StatelessWidget {
           Text(
             text,
             style: const TextStyle(
-              fontSize: 28,
+              fontSize: 24,
             ),
           )
         ],

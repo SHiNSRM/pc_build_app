@@ -54,7 +54,7 @@ class _JsonPartsDateState extends State<JsonPartsDate> {
    * JSONファイル読み込みテスト用
    */
   Future<String> _loadAVaultAsset() async {
-    return await rootBundle.loadString('assets/json/parts_all.json');
+    return await rootBundle.loadString('assets/json/cpu.json');
   }
 
   /*
@@ -65,7 +65,8 @@ class _JsonPartsDateState extends State<JsonPartsDate> {
     setState(() {
       final jsonResponse = json.decode(jsonString);
       print('gotcha:${widget.type}');
-      _data = jsonResponse[widget.type];
+      // _data = jsonResponse[widget.type];
+      _data = jsonResponse;
     });
   }
 
@@ -102,7 +103,7 @@ class _JsonPartsDateState extends State<JsonPartsDate> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      _data[index]['model'],
+                      _data[index]['name'],
                       style: const TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
@@ -119,7 +120,7 @@ class _JsonPartsDateState extends State<JsonPartsDate> {
                     ),
                     const SizedBox(height: 16),
                     Text(
-                      '￥${_data[index]['price'][3]}',
+                      '￥${_data[index]['price']}',
                       style: const TextStyle(
                         fontSize: 20,
                       ),
